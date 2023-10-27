@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OverCatX
+- 👋 Hi, I’m @Bhumipat Kusalatham
 - 👀 I’m interested in Java&Php& Mathematics
 - 🌱 I’m currently learning Java
 - 📫 How to reach me ...
