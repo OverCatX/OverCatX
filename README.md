@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhumipat Kusalatham
+- 👋 Hi, I’m @
 - 👀 I’m interested in Java&Php& Mathematics
 - 🌱 I’m currently learning Java
 - 📫 How to reach me ...
