@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've been learning NodeJS, Express, Python, Flask, Django, React for 1 year
+I've been learning Framework(ReactJS, NodeJS, Flask, Django)
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [bhumipatwnt@gmail.com](mailto:bhumipatwnt@gmail.com)
