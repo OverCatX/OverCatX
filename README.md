@@ -8,7 +8,7 @@
     </a>
 </div>
 <!--- trophy (start) -->
-
+</br>
 * Name: Bhumipat Kusalatham
 * 🌍 I'm based in Thailand
 * 🧠 I’m currently learning **NodeJs, React, NextJs, SpringBoot**
