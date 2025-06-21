@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Classic <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Full-stack Developer</h3>
 
+<div align="left">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
 ------------------
 
@@ -13,17 +18,17 @@
 
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+<h3 align="left">Connect with me:</h3>
+<div align="left">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumipatwnt@gmail.com)
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
