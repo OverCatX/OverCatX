@@ -27,13 +27,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,,css,docker,postgres,prisma,express,firebase,github,html,java,js,linux,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,&perline=14" />
-  </a>
-</p>
-
 <p align= "left">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
