@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Classic <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Full-stack Developer</h3>
+<!-- <h3 align="center">A passionate Full-stack Developer</h3> -->
 
 * Name: Bhumipat Kusalatham
 * 🌍 I'm based in Thailand
