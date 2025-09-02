@@ -28,5 +28,5 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align= "left">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OverCatX&theme=react&layout=compact" />
+  <img height= "100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OverCatX&theme=react&layout=compact" />
 </p>
