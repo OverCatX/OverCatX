@@ -5,8 +5,6 @@
 * 🌍 I'm based in Thailand
 * 🧠 I’m currently learning **NodeJs, React, NextJs, SpringBoot**
 * ✉️ How to reach me: [bhumipatwnt@gmail.com](mailto:bhumipatwnt@gmail.com)
-* 🤝 I'm open to collaborating on StartUp Project
-* ✨ Create more. Worry less.
 
 </p>
 <!--- trophy (start) -->
